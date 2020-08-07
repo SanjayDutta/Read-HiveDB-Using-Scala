@@ -316,3 +316,12 @@
 2020-08-07 21:44:51,612  WARN [Worker-8] - ScalaProject - Project SparkScala runs on platform default installation.
 2020-08-07 21:44:51,704  WARN [Worker-8] - ScalaProject - Project SparkScala has platform default sourceLevel.
 2020-08-07 21:44:51,704  WARN [Worker-8] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 21:56:35,297  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 21:56:35,299  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 21:56:35,308  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 21:56:35,308  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 21:58:50,546  WARN [Worker-6] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 21:58:50,546  WARN [Worker-6] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 21:58:50,608  WARN [Worker-6] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 21:58:50,608  WARN [Worker-6] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 21:58:56,270  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.

@@ -7,7 +7,7 @@ import org.apache.spark.sql.{DataFrame, Dataset, SparkSession}
 import org.apache.spark.sql.functions._
 
 
-
+/** Count up how many of each star rating exists in the MovieLens 100K data set. */
 object RatingsCounter {
  
   /** Our main function where the action happens */
