@@ -19,16 +19,24 @@ object RatingsCounter {
    val conf = new SparkConf().setAppName("SOME APP NAME").setMaster("local[*]")
 
    try{
-     val sc = new SparkContext(conf)
+      val sc = new SparkContext(conf)
       val spark = SparkSession.builder().appName("Spark Hive Example").getOrCreate()
+      
+      
+      val url : String = ""
+      val tableName: String = ""
+      val userName: String = ""
+      val password : String = ""
+      val driverName: String = "com.amazon.hive.jdbc41.HS2Driver"
+      
       
       val jdbcDF = spark.read
      .format("jdbc")
-     .option("url", "jdbc:hive2://52.66.218.85:10000/FIRSTDB")
-     .option("dbtable", "secondTABLE ")
-     .option("user", "hive ")
-     .option("password", "qfbmD3ggd5LdTJ1z")
-     .option("driver", "com.amazon.hive.jdbc41.HS2Driver")
+     .option("url", url)
+     .option("dbtable", tableName)
+     .option("user", userName)
+     .option("password", password)
+     .option("driver", driverName)
      .load()
   
     jdbcDF.show

@@ -308,3 +308,11 @@
 2020-08-07 20:55:14,648  WARN [Worker-4] - ScalaProject - Project SparkScala runs on platform default installation.
 2020-08-07 21:00:28,899  WARN [Worker-3] - ScalaProject - Project SparkScala has platform default sourceLevel.
 2020-08-07 21:00:28,899  WARN [Worker-3] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 21:36:39,247  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 21:36:39,251  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 21:36:39,259  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 21:36:39,260  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 21:44:51,611  WARN [Worker-8] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 21:44:51,612  WARN [Worker-8] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 21:44:51,704  WARN [Worker-8] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 21:44:51,704  WARN [Worker-8] - ScalaProject - Project SparkScala runs on platform default installation.
