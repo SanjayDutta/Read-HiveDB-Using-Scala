@@ -1,0 +1,310 @@
+2020-08-07 15:51:44,901 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (org.apache.commons.httpclient.HttpClient).
+2020-08-07 15:51:44,919 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2020-08-07 15:53:12,644  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:12,874  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:12,888  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:12,908  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,041  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,053  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,098  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,109  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,118  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,128  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,144  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,153  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,166  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,453  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,464  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,474  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,481  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,489  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,497  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,506  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,514  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,520  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,528  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,535  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,545  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,552  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,561  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,569  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,578  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,586  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,593  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,603  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,612  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,618  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,626  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,635  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,644  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,713  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,748  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,778  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,791  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,801  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,812  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,819  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,826  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,834  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,841  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,847  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,855  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,865  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,875  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,882  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,890  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,897  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,905  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,913  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,922  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,931  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,942  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,949  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,956  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,964  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,974  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,982  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,989  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:13,995  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,004  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,014  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,021  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,027  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,035  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,045  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,052  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,059  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,066  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,076  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,088  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,094  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,102  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,113  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,122  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,128  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,136  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,145  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,152  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,158  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,165  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,171  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,178  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,186  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,194  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,207  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,216  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,223  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:53:14,228  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Cannot find template version. Dropped to default 2.6.
+2020-08-07 15:54:10,039  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:10,040  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:10,790 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:21,460  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:21,460  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:22,854  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:22,854  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:23,121  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:23,121  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:24,530  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:24,531  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:24,568 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:24,664 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:24,683 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:24,753 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:25,073  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:25,074  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:25,126 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:31,858  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:31,858  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:31,960  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:31,960  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:32,152  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:32,153  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:32,201  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:32,201  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:32,652  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:32,652  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:32,744 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:32,763 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:32,784  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:32,784  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:32,814 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:32,830 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:32,866 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:32,875 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:33,736  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:33,736  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:33,769 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:34,276  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:34,276  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:34,352 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:35,771  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:35,771  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:35,875 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:59,346  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:59,347  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:59,379 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:54:59,871  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:54:59,871  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:54:59,899 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:55:06,410  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:55:06,411  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:55:06,458 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 15:55:06,957  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 15:55:06,957  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 15:55:07,004 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:02:30,861  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:02:30,861  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:02:31,046 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:02:31,407  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:02:31,408  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:02:31,459 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:03:05,990  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:03:05,990  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:03:06,049 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:03:06,538  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:03:06,539  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:03:06,583 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:03:07,080  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:03:07,080  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:03:07,118 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:03:07,615  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:03:07,616  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:03:07,654 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:03:22,524  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:03:22,524  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:03:23,166  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:03:23,166  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:03:23,590 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:03:23,604 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:04:18,753  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:04:18,755  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:04:21,059  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:04:21,059  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:04:21,396  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:04:21,399  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:04:23,340  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:04:23,340  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:04:23,641 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:04:23,675 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:04:23,710 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:04:24,110  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:04:24,110  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:04:24,175 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:04:24,227 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:04:41,229  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example has platform default sourceLevel.
+2020-08-07 16:04:41,229  WARN [main] - ScalaProject - Project play-samples-play-scala-starter-example runs on platform default installation.
+2020-08-07 16:04:41,419 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.FatalError: package scala does not have a member Int
+2020-08-07 16:21:35,368  WARN [ModalContext] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:21:35,368  WARN [ModalContext] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:21:46,389  WARN [Worker-3] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:21:46,389  WARN [Worker-3] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:22:11,875  WARN [Worker-3] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:22:11,875  WARN [Worker-3] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:23:11,284  WARN [Worker-10] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:23:11,285  WARN [Worker-10] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:23:11,596  WARN [Java indexing] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:23:11,596  WARN [Java indexing] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:23:42,768  WARN [Worker-7] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:23:42,768  WARN [Worker-7] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:24:50,972  WARN [Worker-11] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:24:50,973  WARN [Worker-11] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:24:51,267  WARN [Worker-9] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:24:51,267  WARN [Worker-9] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:24:51,695  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:24:51,695  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:33:58,743 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2020-08-07 16:33:58,857 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2020-08-07 16:33:58,858 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2020-08-07 16:33:58,859 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2020-08-07 16:34:01,968  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2020-08-07 16:34:11,596  WARN [Worker-12] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:34:11,596  WARN [Worker-12] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:34:15,420  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2020-08-07 16:38:24,528  WARN [Worker-18] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:38:24,528  WARN [Worker-18] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:42:06,500  WARN [Worker-14] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:42:06,505  WARN [Worker-14] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:42:34,146 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2020-08-07 16:42:34,147 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2020-08-07 16:42:34,147 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2020-08-07 16:42:38,466  WARN [Worker-17] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:42:38,466  WARN [Worker-17] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:43:27,196  WARN [Worker-16] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:43:27,196  WARN [Worker-16] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:44:14,107  WARN [Worker-19] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:44:14,107  WARN [Worker-19] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:45:20,633  WARN [Worker-16] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:45:20,633  WARN [Worker-16] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:46:18,412  WARN [Worker-20] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:46:18,412  WARN [Worker-20] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:47:08,247  WARN [Worker-20] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:47:08,252  WARN [Worker-20] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:49:30,889  WARN [Worker-17] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:49:30,890  WARN [Worker-17] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:50:38,680  WARN [Worker-17] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:50:38,680  WARN [Worker-17] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:51:43,276  WARN [Worker-19] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:51:43,276  WARN [Worker-19] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:56:33,676  WARN [Worker-17] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:56:33,676  WARN [Worker-17] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:56:41,987  WARN [Worker-20] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:56:41,988  WARN [Worker-20] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:57:25,874  WARN [Worker-22] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:57:25,874  WARN [Worker-22] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 16:57:30,108  WARN [Worker-22] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 16:57:30,108  WARN [Worker-22] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:00:57,170  WARN [Worker-22] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:00:57,170  WARN [Worker-22] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:02:55,398  WARN [Worker-24] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:02:55,398  WARN [Worker-24] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:03:32,970  WARN [Worker-26] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:03:32,970  WARN [Worker-26] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:05:28,429  WARN [Worker-27] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:05:28,429  WARN [Worker-27] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:06:14,464  WARN [Worker-22] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:06:14,464  WARN [Worker-22] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:08:18,657  WARN [Worker-27] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:08:18,657  WARN [Worker-27] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:09:05,765  WARN [Worker-22] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:09:05,765  WARN [Worker-22] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:09:05,929  WARN [Worker-23] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:09:05,929  WARN [Worker-23] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:09:07,435  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:09:07,436  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:09:55,401  WARN [Worker-23] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:09:55,401  WARN [Worker-23] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:10:38,067  WARN [Worker-22] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:10:38,067  WARN [Worker-22] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:10:38,247  WARN [Worker-28] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:10:38,247  WARN [Worker-28] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:10:38,866  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:10:38,866  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:11:48,068  WARN [Worker-29] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:11:48,068  WARN [Worker-29] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:14:19,583  WARN [Worker-29] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:14:19,583  WARN [Worker-29] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 17:23:37,737  WARN [Worker-28] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 17:23:37,737  WARN [Worker-28] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 20:51:23,158  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 20:51:23,189  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 20:51:23,189  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 20:51:23,189  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 20:51:40,576  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2020-08-07 20:52:26,289  WARN [Worker-3] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 20:52:26,289  WARN [Worker-3] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 20:52:26,508  WARN [Worker-3] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 20:52:26,508  WARN [Worker-3] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 20:53:52,239  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1071
+2020-08-07 20:53:52,239  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1071
+2020-08-07 20:53:53,317  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1071
+2020-08-07 20:53:53,332  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1071
+2020-08-07 20:53:53,879  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1071
+2020-08-07 20:53:53,879  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1071
+2020-08-07 20:53:54,426  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1071
+2020-08-07 20:53:54,426  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1071
+2020-08-07 20:54:13,781  WARN [Worker-4] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 20:54:13,781  WARN [Worker-4] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 20:55:14,648  WARN [Worker-4] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 20:55:14,648  WARN [Worker-4] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-07 21:00:28,899  WARN [Worker-3] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-07 21:00:28,899  WARN [Worker-3] - ScalaProject - Project SparkScala runs on platform default installation.

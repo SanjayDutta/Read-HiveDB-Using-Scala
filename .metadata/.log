@@ -1,0 +1,599 @@
+!SESSION 2020-08-07 15:49:38.921 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.genuitec.eclipse.startup 4 0 2020-08-07 15:51:07.696
+!MESSAGE Error excluding paths. Failed to launch process: 203
+
+
+!ENTRY org.eclipse.ui 2 0 2020-08-07 15:51:19.102
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-08-07 15:51:19.102
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2020-08-07 15:51:30.105
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2020-08-07 15:51:30.191
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.jface 2 0 2020-08-07 15:51:32.722
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-08-07 15:51:32.723
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@50e084d0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2e96340e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-08-07 15:51:45.895
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\DELL'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:12.615
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:12.846
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:12.875
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:12.888
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:12.910
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.044
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.054
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.100
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.110
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.118
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.128
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.145
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.154
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.444
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.454
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.464
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.475
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.482
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.490
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.497
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.506
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.515
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.522
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.528
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.537
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.545
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.553
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.562
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.570
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.578
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.586
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.593
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.604
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.612
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.619
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.627
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.635
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.658
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.714
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.754
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.778
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.791
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.802
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.812
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.819
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.826
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.834
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.841
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.848
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.856
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.867
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.875
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.883
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.890
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.898
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.905
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.914
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.923
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.931
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.943
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.950
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.957
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.965
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.975
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.983
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.989
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:13.995
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.005
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.014
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.022
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.028
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.037
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.045
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.052
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.059
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.067
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.076
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.089
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.095
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.102
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.113
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.122
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.129
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.136
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.145
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.153
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.159
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.165
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.171
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.178
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.187
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.194
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.208
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.217
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2020-08-07 15:53:14.223
+!MESSAGE Cannot find template version. Dropped to default 2.6.
+
+!ENTRY org.eclipse.core.contenttype 4 0 2020-08-07 15:53:14.850
+!MESSAGE Could not create content describer for scala.tools.eclipse.scalaClass. Content type has been disabled.
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException
+	at java.lang.System.arraycopy(Native Method)
+	at scala.tools.scalap.ByteArrayReader.nextBytes(ByteArrayReader.scala:38)
+	at scala.tools.scalap.Classfile.readAttribs(Classfile.scala:35)
+	at scala.tools.scalap.Classfile.readMembers(Classfile.scala:46)
+	at scala.tools.scalap.Classfile.<init>(Classfile.scala:26)
+	at org.scalaide.core.internal.jdt.model.ScalaClassFileDescriber$.isScala(ScalaClassFileDescriber.scala:16)
+	at org.scalaide.core.internal.jdt.model.ScalaClassFileDescriber.describe(ScalaClassFileDescriber.scala:38)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.describe(ContentTypeCatalog.java:226)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.collectMatchingByContents(ContentTypeCatalog.java:197)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.internalFindContentTypesFor(ContentTypeCatalog.java:411)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.internalFindContentTypesFor(ContentTypeCatalog.java:458)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.getDescriptionFor(ContentTypeCatalog.java:354)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.getDescriptionFor(ContentTypeCatalog.java:368)
+	at org.eclipse.core.internal.content.ContentTypeMatcher.getDescriptionFor(ContentTypeMatcher.java:76)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager.readDescription(ContentDescriptionManager.java:453)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager.getDescriptionFor(ContentDescriptionManager.java:363)
+	at org.eclipse.core.internal.resources.File.getContentDescription(File.java:263)
+	at org.eclipse.wst.validation.internal.ContentTypeWrapper.getContentType(ContentTypeWrapper.java:36)
+	at org.eclipse.wst.validation.internal.model.FilterRule$ContentType.matchesResource(FilterRule.java:522)
+	at org.eclipse.wst.validation.internal.model.FilterGroup.shouldValidate(FilterGroup.java:181)
+	at org.eclipse.wst.validation.Validator$V2.shouldValidate(Validator.java:1126)
+	at org.eclipse.wst.validation.Validator.shouldValidate(Validator.java:320)
+	at org.eclipse.wst.validation.Friend.shouldValidate(Friend.java:50)
+	at org.eclipse.wst.validation.internal.ValManager.accept(ValManager.java:800)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:669)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:299)
+	at org.eclipse.core.internal.resources.Resource$2.visit(Resource.java:120)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:84)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:129)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:52)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.fullBuild(ValBuilderJob.java:219)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:178)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:10.754
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:24.529
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:24.654
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:24.677
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:24.747
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:25.116
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:32.713
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:32.751
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:32.792
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:32.818
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:32.857
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:32.866
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:33.762
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:34.346
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:35.869
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:59.369
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:54:59.889
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:55:06.449
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 15:55:06.990
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:02:30.901
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:02:31.446
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:03:06.034
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:03:06.572
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:03:07.108
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:03:07.648
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:03:23.506
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:03:23.591
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+!SESSION 2020-08-07 16:03:40.850 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2020-08-07 16:04:09.861
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-08-07 16:04:09.861
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2884b64,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@18919f2c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:04:23.583
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:04:23.664
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:04:23.684
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-08-07 16:04:23.993
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\DELL'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:04:24.133
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:04:24.212
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.scala-ide.sdt.core 4 0 2020-08-07 16:04:41.412
+!MESSAGE scala.reflect.internal.FatalError: package scala does not have a member Int
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2020-08-07 16:04:48.505
+!MESSAGE Exception while initializing all containers
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/play-samples-play-scala-starter-example' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:141)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:215)
+	at org.eclipse.core.internal.resources.Resource.touch(Resource.java:1749)
+	at org.eclipse.core.internal.resources.Project.touch(Project.java:1320)
+	at org.eclipse.wst.jsdt.internal.core.SetContainerOperation.execute(SetContainerOperation.java:122)
+	at org.eclipse.wst.jsdt.core.JavaScriptCore.setJsGlobalScopeContainer(JavaScriptCore.java:3940)
+	at org.eclipse.wst.jsdt.launching.JREContainerInitializer.initialize(JREContainerInitializer.java:48)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.initializeContainer(JavaModelManager.java:2216)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager$6.run(JavaModelManager.java:2146)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.initializeAllContainers(JavaModelManager.java:2162)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.getJsGlobalScopeContainer(JavaModelManager.java:1536)
+	at org.eclipse.wst.jsdt.core.JavaScriptCore.getJsGlobalScopeContainer(JavaScriptCore.java:1358)
+	at org.eclipse.wst.jsdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2748)
+	at org.eclipse.wst.jsdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2027)
+	at org.eclipse.wst.jsdt.core.JavaScriptCore.initializeAfterLoad(JavaScriptCore.java:2694)
+	at org.eclipse.wst.jsdt.internal.ui.InitializeAfterLoadJob$RealJob.run(InitializeAfterLoadJob.java:32)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-08-07 16:04:48.509
+!MESSAGE Resource '/play-samples-play-scala-starter-example' does not exist.
+
+!ENTRY org.scala-ide.sdt.core 1 0 2020-08-07 16:33:54.442
+!MESSAGE Timeout while resolving hyperlink in C:\Users\DELL\Desktop\New folder (3)\blank\SparkScala\src\com\sanjay\spark\RatingsCounter.scala at: offset: 725, length: 0
+
+!ENTRY org.scala-ide.sdt.core 1 0 2020-08-07 16:33:54.567
+!MESSAGE Timeout while resolving hyperlink in C:\Users\DELL\Desktop\New folder (3)\blank\SparkScala\src\com\sanjay\spark\RatingsCounter.scala at: offset: 826, length: 0
+
+!ENTRY org.scala-ide.sdt.core 1 0 2020-08-07 16:37:58.707
+!MESSAGE Timeout while resolving hyperlink in C:\Users\DELL\Desktop\New folder (3)\blank\SparkScala\src\com\sanjay\spark\RatingsCounter.scala at: offset: 757, length: 0
+
+!ENTRY org.scala-ide.sdt.core 1 0 2020-08-07 16:44:10.895
+!MESSAGE Timeout while resolving hyperlink in C:\Users\DELL\Desktop\New folder (3)\blank\SparkScala\src\com\sanjay\spark\RatingsCounter.scala at: offset: 985, length: 0
+
+!ENTRY org.scala-ide.sdt.core 1 0 2020-08-07 16:47:05.710
+!MESSAGE Timeout while resolving hyperlink in C:\Users\DELL\Desktop\New folder (3)\blank\SparkScala\src\com\sanjay\spark\RatingsCounter.scala at: offset: 1192, length: 0
+
+!ENTRY org.scala-ide.sdt.core 1 0 2020-08-07 17:09:56.163
+!MESSAGE Timeout while resolving hyperlink in C:\Users\DELL\Desktop\New folder (3)\blank\SparkScala\src\com\sanjay\spark\RatingsCounter.scala at: offset: 922, length: 0
+!SESSION 2020-08-07 20:48:37.011 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_261
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2020-08-07 20:51:13.785
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-08-07 20:51:13.785
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6f5ac103,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@c5954bc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-08-07 20:51:38.858
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\DELL'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.scala-ide.sdt.core 1 0 2020-08-07 20:52:26.289
+!MESSAGE Timeout while resolving hyperlink in C:\Users\DELL\Desktop\New folder (3)\blank\SparkScala\src\com\sanjay\spark\RatingsCounter.scala at: offset: 955, length: 0
