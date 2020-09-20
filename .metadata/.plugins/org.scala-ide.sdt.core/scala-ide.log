@@ -325,3 +325,9 @@
 2020-08-07 21:58:50,608  WARN [Worker-6] - ScalaProject - Project SparkScala has platform default sourceLevel.
 2020-08-07 21:58:50,608  WARN [Worker-6] - ScalaProject - Project SparkScala runs on platform default installation.
 2020-08-07 21:58:56,270  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2020-08-08 13:50:45,912  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-08 13:50:45,928  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-08 13:50:45,937  WARN [main] - ScalaProject - Project SparkScala has platform default sourceLevel.
+2020-08-08 13:50:45,938  WARN [main] - ScalaProject - Project SparkScala runs on platform default installation.
+2020-08-08 13:51:03,096 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (org.apache.commons.httpclient.HttpClient).
+2020-08-08 13:51:03,098 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
